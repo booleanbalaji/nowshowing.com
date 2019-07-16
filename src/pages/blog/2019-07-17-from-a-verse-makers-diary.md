@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: From A Verse-Maker's Diary
 date: 2019-07-16T19:36:10.502Z
-description: >
+description: >-
   This book was my first attempt to curate my poetry. After rummaging through
   coffee-stained notebooks, wilting tissues, and my little red diary; I picked
   out 46 poems. NotionPress decided to make it a book and I decided to call it
